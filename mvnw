@@ -21,7 +21,7 @@
 # ----------------------------------------------------------------------------
 # Maven Start Up Batch script
 #
-# Required ENV vars:
+# Required ENV var
 # ------------------
 #   JAVA_HOME - location of a JDK home dir
 #
