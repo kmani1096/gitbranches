@@ -35,8 +35,8 @@
 # ----------------------------------------------------------------------------
 
 if [ -z "$MAV_SKIP_RC" ] ; then
-
-  if [ -f /etc/mavenrc ] ; then
+hfjh
+  if [ -f /etc/mavenrc ] ; thdr
     . /etc/mavenrc
   fi
 
