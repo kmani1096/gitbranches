@@ -6,7 +6,7 @@ target/
 !**/src/test/**/target/
 hgfh
 ### STS ###
-.apt_generated
+.apt_generatednow
 .classpath
 .factorypathrsgsef
 .project
